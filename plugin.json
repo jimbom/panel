@@ -1,0 +1,19 @@
+{
+  "type": "panel",
+  "name": "SP Panel",
+  "id": "sp-panel",
+  "dataFormats": [
+    "time_series"
+  ],
+  "info": {
+    "description": "SP panel InfluxDB",
+    "author": {
+      "name": "TBD"
+    },
+    "version": "1.0.0"
+  },
+  "dependencies": {
+    "grafanaVersion": "6.x.x",
+    "plugins": []
+  }
+}

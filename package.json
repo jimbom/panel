@@ -48,7 +48,7 @@
     "typescript": "^3.2.2"
   },
   "dependencies": {
-    "@grafana/toolkit": "^6.5.1",
+    "@grafana/toolkit": "^9.3.2",
     "lodash": "^4.17.15",
     "moment": "^2.24.0",
     "systemjs": "^6.1.7"
